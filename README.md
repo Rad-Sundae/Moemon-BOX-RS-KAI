@@ -8,7 +8,7 @@ Moemon BOX is intended for use with AbsolBlogsPokemon/windyprarie's Pokemon Box 
 Moemon box V1 features:
  all Gen 1-3 sprites changed to Moemon sprites
  all BOX utility features preserved
- RISK : play adventure more at your own risk, it crashes quickly and could potentially break your save file, be sure to backup.
+ RISK : play adventure mode at your own risk, it crashes quickly and could potentially break your save file, be sure to backup.
 
 Moemon box V2 planned changes:
 adventure mode fixed for Ruby and Sapphire Kai games
