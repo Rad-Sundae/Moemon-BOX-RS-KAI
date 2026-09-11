@@ -3,7 +3,7 @@ I spent a week not being lazy and that was followed up by me being lazy for mont
 
 This patch updates the original game to have moemon sprites and to allow proper functionality between Moemon BOX and your desired Moemon KAI game.
  
-Moemon BOX is intended for use with AbsolBlogsPokemon/windyprarie's Pokemon Box Unlocked patch, i havent gotten their permission yet to include their code changes in this patch, so ill link them and their patch in the credits for now
+Moemon BOX is intended for use with AbsolBlogsPokemon/windyprarie's Pokemon Box Universal patch, i havent gotten their permission yet to include their code changes in this patch, so ill link them and their patch in the credits for now
 
 Moemon box V1 features:
  
