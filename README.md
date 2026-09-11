@@ -6,8 +6,11 @@ This patch updates the original game to have moemon sprites and to allow proper 
 Moemon BOX is intended for use with AbsolBlogsPokemon/windyprarie's Pokemon Box Unlocked patch, i havent gotten their permission yet to include their code changes in this patch, so ill link them and their patch in the credits for now
 
 Moemon box V1 features:
+ 
  all Gen 1-3 sprites changed to Moemon sprites
+ 
  all BOX utility features preserved
+ 
  RISK : play adventure mode at your own risk, it crashes quickly and could potentially break your save file, be sure to backup.
 
 Moemon box V2 planned changes:
