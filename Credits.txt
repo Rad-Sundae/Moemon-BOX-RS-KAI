@@ -12,7 +12,7 @@ you can find their discord here --> <https://discord.gg/fHPHSVNaqQ>
 
 AbsolBlogsPokemon/windyprarie
 https://absolsblog.neocities.org/
-(at the time of writing this the project pokemon page is giving a 502 error)
+https://projectpokemon.org/home/files/file/4950-pokemon-box-ruby-sapphire-universal-version/
 
 Moemon Box RS KAI isnt complete until it becomes Moemon BOX KAI Unlocked.
 until i get their permission to include their code tweaks into this patch
